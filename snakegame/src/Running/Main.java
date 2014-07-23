@@ -1,4 +1,4 @@
-package Test;
+package Running;
 
 import Gameplay.Visual.Display;
 

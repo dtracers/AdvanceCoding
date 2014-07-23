@@ -5,7 +5,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 import Gameplay.Visual.Display;
-import Test.Main;
+import Running.Main;
 
 
 public class Worm implements ActionListener
